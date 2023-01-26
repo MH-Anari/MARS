@@ -1,0 +1,39 @@
+body {
+  background-color: #1a1926
+}
+
+.title {
+  background-color: #15141d;
+  font-size: 50px;
+  font-family: myfont;
+  color: antiquewhite;
+  align-content: center;
+}
+
+.dlbox {
+  font-size: 25px;
+  color: #FB2576;
+  background-color: #15141d;
+  width: 500px;
+  height: 570px;
+  text-align: center;
+  border-radius: 50px;
+  padding: 10px;
+  margin: auto;
+}
+
+.dl-title {
+  font-family: myfont;
+  font-size: 25px;
+}
+
+.info {
+  font-family: myfont;
+  font-size: 20px;
+  color: blueviolet;
+}
+
+@font-face {
+  font-family: myfont;
+  src: url(../font/BYekan+.ttf);
+}
